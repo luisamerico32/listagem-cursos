@@ -1,4 +1,5 @@
 <?php
+
 namespace Cursos\Entity;
 /**
  * @Entity
